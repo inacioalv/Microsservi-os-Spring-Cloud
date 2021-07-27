@@ -25,7 +25,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Actuator](https://docs.spring.io/spring-boot/docs/current/reference/html/actuator.html)
 - [Elasticsearch](https://spring.io/projects/spring-data-elasticsearch)
 - [Redis](https://www.baeldung.com/spring-data-redis-tutorial)
-- [Redis](https://www.baeldung.com/spring-data-redis-tutorial)
 
 ## 💻 Projeto
 
